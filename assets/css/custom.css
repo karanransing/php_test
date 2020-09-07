@@ -1,0 +1,156 @@
+
+td, th {
+  padding: 0.5rem;
+}
+
+
+
+.name_top_space
+{
+    color: #fff;
+    font-size: 1.2em;
+}
+.logo
+{
+    height:auto;
+}
+  .name {
+    font-size: 15px;
+    color: #333;
+    float: right;
+    
+  }
+  
+  .telgu_name
+  {
+   font-size: 10px;
+    color: #333;
+    float: right;   
+  }
+  
+  .tamil_name
+  {
+      font-size: 10px;
+    color: #333;
+    float: right;
+  }
+  
+  .box_div
+  {
+    /*height: 10vh;
+    line-height:10vh;*/
+    background-color:#C00000;
+    margin-top: 30px;
+    font-family:calibiri;
+  }
+
+  .box_div_new
+  {
+    height: 20vh;
+    background-color:#a5d044;
+    margin-top: 100px;
+  }
+  
+  .name_space
+  {
+      padding-top: 150px;
+  }
+  .tamil_headertext
+  {
+      margin-left: 187px;
+  }
+  .headertext
+  {
+    margin-left: 900px;   
+  }
+  
+  /*.form-control
+  {
+      color:#a5d044/*#208173*//*#fff !important;
+  }*/
+  
+  .half_width
+  {
+      width:50%;
+  }
+  
+  .action_button
+  {
+      width: 100%;
+    text-transform: uppercase;
+  }
+  
+  .m1{
+      margin-top:50px;
+  }
+
+  .hide_me
+  {
+    display: none;
+  }
+
+  .show_me
+  {
+    display: block;
+  }
+  
+  .custom_border
+  {
+      border: 2px solid #C00000;
+       border-radius: 9px;
+  }
+  
+  .tamil_headertext
+  {
+    color:#C00000;
+      font-size: 1.5em;  
+  }
+  .headertext
+  {
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .question_text
+  {
+      font-size:17px !important;
+      margin-bottom:15px;
+  }
+  
+  .heading_text
+  {
+      font-size:16px !important;
+  }
+  
+  .thank_you_heading
+  {
+      font-size: 2em;
+  }
+  
+  .thank_you_text
+  {
+       font-size: 1.5em;
+  }
+  
+  .col-md-8
+  {
+    margin-bottom: 15px !important;   
+  }
+  
+  .login-logo {
+  text-align: center;
+  margin-bottom: 15px; }
+  .login-logo span {
+    color: #ffffff;
+    font-size: 24px; }
+
+.login-content {
+  max-width: 540px;
+  margin: 20vh auto; }
+
+.login-form {
+    background:#00000008;
+  padding: 30px 30px 20px;
+  border-radius: 2px; }
+  
